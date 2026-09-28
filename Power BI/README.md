@@ -634,3 +634,6 @@ This project demonstrates practical experience in:
 * Dashboard design
 * Insight generation
 * Decision-support reporting
+
+## Author
+Anjorin Molayo
