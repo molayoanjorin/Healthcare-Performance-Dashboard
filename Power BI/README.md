@@ -285,8 +285,6 @@ The final report therefore treated target analysis as a benchmark comparison.
 
 ## Data Model
 
-Data Model
-
 The project uses a simple star-schema-style model.
 
 Patient_Visits serves as the central fact table, while Date_Table and State_Targets provide supporting dimensions.
