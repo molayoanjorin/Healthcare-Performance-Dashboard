@@ -49,22 +49,6 @@ Management needs to understand not only what happened, but also:
   
 The business problem was therefore translated into three major analytical questions:
 
-Healthcare organizations generate large amounts of operational, financial, and patient-related data. However, raw data does not automatically provide management with meaningful answers.
-Management needs to understand not only what happened, but also:
-* Where patient activity is concentrated
-* Which departments receive the most visits
-* How patient volumes change over time
-* Which states and branches generate the most revenue
-* Whether revenue is meeting established targets
-* How much the organization spends on healthcare delivery
-* How profitable different areas of the organization are
-* How long patients wait
-* How satisfied patients are
-* What types of diagnoses are most common
-* How patient outcomes are distributed
-* The difference between new and returning patients
-* Which operational areas require further investigation
-The business problem was therefore translated into three major analytical questions:
 1. How is the organization performing?
 This focuses on:
 * Patients
